@@ -1,4 +1,3 @@
-// declare an async function named promiseAll that takes an array of functions as a parameter
 /**
  * @param {Array<Function>} functions
  * @return {Promise<any>}
